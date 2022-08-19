@@ -1,0 +1,10 @@
+link:css -> cria o link do css
+script:src -> cria o link do js
+
+todo-container -> cria uma div com id todo-container
+
+form#todo-form -> cria um form com id todo-form
+
+.form-control -> cria uma div com id form-control
+
+i.fa-thin.fa-plus -> cria um ícone de add [+] automatico
